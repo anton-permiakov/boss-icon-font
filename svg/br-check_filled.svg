@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
-    <title>check_filled</title>
+    <title>icon/check_filled</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M17.9472839,7.58651336 L9.86642837,15.1650908 L5.87338368,11.8307237 L4.5914659,13.3658741 L9.94332329,17.8349092 L19.3154328,9.04533775 L17.9472839,7.58651336 Z" id="path-1"></path>
     </defs>
-    <g id="check_filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="icon/check_filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="palette" transform="translate(3.000000, 3.000000)">
             <mask id="mask-2" fill="white">
                 <use xlink:href="#path-1"></use>
