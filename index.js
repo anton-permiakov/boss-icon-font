@@ -17,13 +17,13 @@ fs.readdir('./svg/', (err, files) => {
 
     var gen = generator({
         files: filepath,
-        dest: 'output/fonts/',
+        dest: 'docs/fonts/',
         fontName: 'boss',
         html: true,
         fontHeight: 1024,
-        htmlDest: 'output/boss.html',
+        htmlDest: 'docs/index.html',
         htmlTemplate: './templates/html.hbs',
-        cssDest: 'output/styles/boss.css',
+        cssDest: 'docs/styles/boss.css',
         cssTemplate: './templates/css.hbs',
         cssFontsUrl: '../fonts/',
         templateOptions: {
