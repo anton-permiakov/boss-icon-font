@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>video_filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.69,5.44487292 C25.0556169,5.03486887 25.6356885,4.89183751 26.15,5.08487292 C26.6621693,5.28307398 26.9998502,5.77569077 27.0000161,6.32487292 L27.0000161,6.32487292 L27.0000161,22.8048729 C27.0027099,23.3549375 26.6640237,23.8490209 26.15,24.0448729 C26.0031158,24.1004272 25.8470158,24.127575 25.69,24.1250565 C25.3066164,24.1296791 24.9406634,23.9650003 24.69,23.6748729 L24.69,23.6748729 L20.36,18.7648729 L20.36,10.3648729 Z M18.55,7.28487292 L18.55,21.8448729 L4.55,21.8448729 C3.71806262,21.8617408 3.027201,21.2065366 3,20.3748729 L3,20.3748729 L3,8.75487292 C3.027201,7.92320926 3.71806262,7.26800502 4.55,7.28487292 L4.55,7.28487292 L18.55,7.28487292 Z" id="path-1"></path>
+    </defs>
+    <g id="video_filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.17,20.46 C26.6283963,20.46 27,20.8316037 27,21.29 C27,21.7483963 26.6283963,22.12 26.17,22.12 L3.83,22.12 C3.37160366,22.12 3,21.7483963 3,21.29 C3,20.8316037 3.37160366,20.46 3.83,20.46 L26.17,20.46 Z M26.17,14.23 C26.6283963,14.23 27,14.6016037 27,15.06 C27,15.5183963 26.6283963,15.89 26.17,15.89 L3.83,15.89 C3.37160366,15.89 3,15.5183963 3,15.06 C3,14.6016037 3.37160366,14.23 3.83,14.23 L26.17,14.23 Z M26.17,8 C26.6283963,8 27,8.37160366 27,8.83 C27,9.28839634 26.6283963,9.66 26.17,9.66 L3.83,9.66 C3.37160366,9.66 3,9.28839634 3,8.83 C3,8.37160366 3.37160366,8 3.83,8 L26.17,8 Z" id="path-1"></path>
+    </defs>
+    <g id="menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>unlock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.66,11.4469222 L21.66,25.5069222 L3,25.5069222 L3,11.4469222 L21.66,11.4469222 Z M20.49,12.6169222 L4.17,12.6169222 L4.17,24.3369222 L20.49,24.3369222 L20.49,12.6169222 Z M25.4338066,5.21935939 C26.3718871,6.06363184 26.9354133,7.24651771 27,8.50692223 L27,9.54692223 L25.83,9.54692223 L25.83,8.54692223 C25.7761945,7.58944379 25.3404922,6.69358221 24.6205289,6.06008967 C23.9005656,5.42659714 22.956541,5.10844311 22,5.17692223 C20.0381496,5.05710058 18.3484792,6.54561974 18.22,8.50692223 L18.22,9.50692223 L17.09,9.50692223 L17.09,8.50692223 C17.2248233,5.91855054 19.4097108,3.91610781 22,4.00692223 C23.2602208,3.9388444 24.4957261,4.37508694 25.4338066,5.21935939 Z" id="path-1"></path>
+    </defs>
+    <g id="unlock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#2A2825" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

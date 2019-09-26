@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Boss Revoulution Icon Font</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <link rel="shortcut icon" href="img/ico.png" type="image/png">
+    <link rel="stylesheet" href="styles/boss.css">
+    <link rel="stylesheet" href="styles/page.css">
+</head>
+<body>
+	<h1><img src="img/logo.svg" alt="Boss Revolution"></h1>
+    <div class="input-group">
+        <input type="text" placeholder="Search icon..." data-bind="textInput: searchIcon"/>
+    </div>
+    <div class="container" data-bind="css: {'clicked': iconInfoVisible}">
+        <!-- ko foreach:filteredIcons -->
+        <div class="preview" data-bind="click: $parent.showIconInfo, event: {mouseout: $parent.handleMouseOutEvent}">
+            <span class="copied">copied to clipboard</span>
+            <span class="hex" data-bind="text: $parent.getHex($index)"></span>
+            <span class="inner">
+                <i data-bind="class: $parent.className($data)"></i>
+            </span>
+            <span class="label" data-bind="text: $data"></span>
+            <span class="copy" data-bind="attr: {id: $data}, text: '&lt;i class=&quot;' + $parent.classPrefix() + $data + '&quot;&gt;&lt;/i&gt;'"></span>
+        </div>
+        <!-- /ko -->
+        
+    </div>
+    <script>
+        var names = '{{{names}}}';
+
+        var iconSetViwModel = function (){
+            var self = this;
+
+            self.classPrefix = ko.observable('{{classPrefix}}');
+            self.startCodepoint = ko.observable({{startCodepoint}});
+            self.icons = ko.observableArray(names.split(','));            
+            self.iconInfoVisible = ko.observable(false);
+            self.searchIcon = ko.observable();
+
+            self.className = function(iconClass){
+                return self.classPrefix() + iconClass;
+            };
+
+            self.getHex = function(index){
+                return (self.startCodepoint() + index()).toString(16);
+            }
+
+            self.showIconInfo = function(i, e){
+                self.iconInfoVisible(true);
+                self.copyToCB(i);
+                e.currentTarget.classList.add('open');
+            }
+
+            self.handleMouseOutEvent = function(m, e){
+                self.iconInfoVisible(false);
+                e.currentTarget.classList.remove('open');
+            }
+
+            self.copyToCB = function(id){
+                var element = document.getElementById(id);
+                var range = document.createRange();
+                range.selectNode(element);
+                window.getSelection().removeAllRanges();
+                window.getSelection().addRange(range);
+                document.execCommand('copy');
+            }
+
+            self.filteredIcons = ko.computed(function(){
+                if(!self.searchIcon()){
+                    return self.icons()
+                };
+                var results = ko.utils.arrayFilter(self.icons(), function(val){
+                    return val.indexOf(self.searchIcon()) > -1;
+                });
+                console.log(results);
+                return results;
+            })
+        }
+
+        ko.applyBindings(new iconSetViwModel());
+    </script>
+</body>
+</html>

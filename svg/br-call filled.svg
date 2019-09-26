@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>call_filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.6495129,21.9245152 L22.9095129,18.5345152 C22.4669405,18.1431992 21.8020853,18.1431992 21.3595129,18.5345152 L19.9095129,19.7345152 C18.7595129,20.8845152 16.1095129,20.0845152 12.9895129,16.9745152 C9.8695129,13.8645152 9.0795129,11.2445152 10.2295129,10.0945152 L11.4295129,8.6445152 C11.8208289,8.20194284 11.8208289,7.53708756 11.4295129,7.0945152 L8.0795129,3.3545152 C7.64608522,2.90202138 6.93018345,2.8797884 6.4695129,3.3045152 L3.7495129,5.3745152 C1.6195129,7.4945152 4.1395129,14.3745152 9.9095129,20.0945152 C15.6795129,25.8145152 22.5095129,28.3845152 24.6295129,26.2545152 L26.6995129,23.5345152 C27.1242397,23.0738446 27.1020067,22.3579429 26.6495129,21.9245152 Z" id="path-1"></path>
+    </defs>
+    <g id="call_filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -39.000000)" id="color">
+                <rect x="0" y="0" width="147" height="107"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

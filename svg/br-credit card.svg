@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>credit card</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.34,6 C25.8090774,6 27,7.19092257 27,8.66 L27,20.94 C27,22.4090774 25.8090774,23.6 24.34,23.6 L5.66,23.6 C4.19092257,23.6 3,22.4090774 3,20.94 L3,8.66 C3,7.19092257 4.19092257,6 5.66,6 L24.34,6 Z M25.67,11.899 L4.329,11.899 L4.32996178,20.94 C4.32731125,21.2935553 4.46657227,21.6334105 4.71658088,21.8834191 C4.96658949,22.1334277 5.30644466,22.2726888 5.66,22.2700382 L24.34,22.2700382 C24.6935553,22.2726888 25.0334105,22.1334277 25.2834191,21.8834191 C25.5334277,21.6334105 25.6726888,21.2935553 25.6700382,20.94 L25.67,11.899 Z M24.34,7.32996178 L5.66,7.32996178 C5.30644466,7.32731125 4.96658949,7.46657227 4.71658088,7.71658088 C4.46657227,7.96658949 4.32731125,8.30644466 4.32996178,8.66 L4.329,10.569 L25.67,10.569 L25.6700382,8.66 C25.6726888,8.30644466 25.5334277,7.96658949 25.2834191,7.71658088 C25.0334105,7.46657227 24.6935553,7.32731125 24.34,7.32996178 Z" id="path-1"></path>
+    </defs>
+    <g id="credit-card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

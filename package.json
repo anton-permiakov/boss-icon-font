@@ -1,0 +1,24 @@
+{
+  "name": "boss-icon-font",
+  "version": "0.0.1",
+  "description": "Boss Revoulution iconic font",
+  "main": "index.js",
+  "dependencies": {
+    "webfonts-generator": "^0.4.0",
+    "xml2js": "^0.4.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "http-server -a localhost -p 8000 -c-1"
+  },
+  "author": "Anton Permiakov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-permiakov/boss-icon-font.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anton-permiakov/boss-icon-font/issues"
+  },
+  "homepage": "https://github.com/anton-permiakov/boss-icon-font#readme"
+}

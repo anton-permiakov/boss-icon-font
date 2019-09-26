@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.27,3 C19.3896796,3 23.54,7.15032037 23.54,12.27 C23.5368004,15.2408231 22.1378047,17.8846351 19.9634794,19.5809698 L24.36,26.08 C24.4889946,26.2627166 24.5035808,26.5026642 24.3976687,26.6996606 C24.2917567,26.8966571 24.0835584,27.016828 23.86,27.01 L23.85,27.01 C23.6531238,27.012119 23.4686162,26.914217 23.36,26.75 L18.9757077,20.2542255 C17.5964686,21.0695669 15.987908,21.5381498 14.27,21.54 C9.15032037,21.54 5,17.3896796 5,12.27 C5,7.15032037 9.15032037,3 14.27,3 Z M14.27,4.21 C11.0050802,4.21 8.06183471,6.17727864 6.81334024,9.19405884 C5.56484577,12.210839 6.25711554,15.6826731 8.56719329,17.9898884 C10.877271,20.2971036 14.3499608,20.985068 17.3651907,19.7328339 C20.3804205,18.4805998 22.3440457,15.5349173 22.3400062,12.27 C22.334482,7.81696781 18.7230356,4.21 14.27,4.21 Z" id="path-1"></path>
+    </defs>
+    <g id="search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

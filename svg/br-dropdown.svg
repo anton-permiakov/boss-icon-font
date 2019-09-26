@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.2343951,9.56105399 L14.2843951,21.711054 C14.6732386,22.0921969 15.2955516,22.0921969 15.6843951,21.711054 L26.7343951,9.56105399 C26.9770621,9.28453289 27.0361069,8.89186089 26.8854913,8.55620315 C26.7348756,8.22054541 26.4022873,8.00360622 26.0343951,8.00105399 L3.9843951,8.00105399 C3.60743065,7.98323644 3.25635641,8.19258955 3.09283746,8.53270897 C2.92931851,8.87282839 2.98506055,9.27776625 3.2343951,9.56105399 Z" id="path-1"></path>
+    </defs>
+    <g id="dropdown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

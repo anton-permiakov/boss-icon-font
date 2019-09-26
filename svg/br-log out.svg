@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>log out</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.9,3 C22.3119621,3.00538581 22.6446142,3.33803794 22.65,3.75 C22.6446142,4.16196206 22.3119621,4.49461419 21.9,4.5 L7.47,4.5 L7.47,25.5 L21.87,25.5 C22.2842136,25.5 22.62,25.8357864 22.62,26.25 C22.62,26.6642136 22.2842136,27 21.87,27 L6,27 L6,3 L21.9,3 Z M18.46,9.42 L24,15 L18.43,20.58 C18.2922332,20.7126471 18.1110251,20.7908153 17.92,20.8 C17.7220028,20.7956915 17.5328457,20.7171735 17.39,20.58 C17.0975466,20.2871825 17.0975466,19.8128175 17.39,19.52 L21.169,15.74 L13.11,15.74 L13.11,14.24 L21.149,14.24 L17.39,10.48 C17.0975466,10.1871825 17.0975466,9.71281755 17.39,9.42 C17.6884112,9.13170993 18.1615888,9.13170993 18.46,9.42 Z" id="path-1"></path>
+    </defs>
+    <g id="log-out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

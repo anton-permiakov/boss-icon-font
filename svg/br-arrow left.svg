@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>arrow_left</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.0006255,26.9622836 C20.8443874,26.9596646 20.6946981,26.899076 20.5806255,26.7922836 L9.17062547,15.3722836 C8.94312484,15.1423849 8.94312484,14.7721824 9.17062547,14.5422836 L20.5806255,3.13228364 C20.8152701,2.94143884 21.1562295,2.95894175 21.3700984,3.17281065 C21.5839674,3.38667956 21.6014703,3.72763905 21.4106255,3.96228364 L10.4106255,14.9622836 L21.4106255,25.9622836 C21.5734968,26.1306874 21.6212977,26.379503 21.532423,26.5962706 C21.4435482,26.8130382 21.2348381,26.9566843 21.0006255,26.9622836 L21.0006255,26.9622836 Z" id="path-1"></path>
+    </defs>
+    <g id="arrow_left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="palette/additional/lightblue" mask="url(#mask-2)" fill="#E21B23" fill-rule="nonzero">
+            <g transform="translate(-59.000000, -38.000000)" id="color">
+                <rect x="0" y="0" width="147" height="106"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
