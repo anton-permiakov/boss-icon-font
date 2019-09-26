@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "boss";
-	src: url("../fonts/boss.eot?b1d10a088cd7f27ad0c4b4af4055cbd0?#iefix") format("embedded-opentype"),
-url("../fonts/boss.woff2?b1d10a088cd7f27ad0c4b4af4055cbd0") format("woff2"),
-url("../fonts/boss.woff?b1d10a088cd7f27ad0c4b4af4055cbd0") format("woff");
+	src: url("../fonts/boss.eot?84d579b722f1ce7da5b33230f41b07a2?#iefix") format("embedded-opentype"),
+url("../fonts/boss.woff2?84d579b722f1ce7da5b33230f41b07a2") format("woff2"),
+url("../fonts/boss.woff?84d579b722f1ce7da5b33230f41b07a2") format("woff");
 }
 
 .boss {
@@ -247,7 +247,7 @@ url("../fonts/boss.woff?b1d10a088cd7f27ad0c4b4af4055cbd0") format("woff");
 .boss-pinless:before {
 	content: "\f14d";
 }
-.boss-POS:before {
+.boss-pos:before {
 	content: "\f14e";
 }
 .boss-print:before {

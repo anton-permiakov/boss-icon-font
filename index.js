@@ -54,5 +54,5 @@ var cleanSvgIcon = (icon) => {
 }
 
 var cleanFileName = (icon) => {
-    return icon.replace(/^br-/, 'boss-').replace(/_/, '-').replace(/\s/g, '-');
+    return icon.replace(/^br-/, 'boss-').replace(/_/, '-').replace(/\s/g, '-').toLowerCase();
 }

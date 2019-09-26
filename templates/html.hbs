@@ -73,7 +73,7 @@
                     return self.icons()
                 };
                 var results = ko.utils.arrayFilter(self.icons(), function(val){
-                    return val.indexOf(self.searchIcon()) > -1;
+                    return val.indexOf(self.searchIcon().toLowerCase()) > -1;
                 });
                 console.log(results);
                 return results;
