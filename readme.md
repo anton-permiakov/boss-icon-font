@@ -14,6 +14,7 @@ npm install
 ```
 
 ## Usage
+Place SVG icons into svg directory and run the script:
 
 ```
 node index.js
